@@ -10,6 +10,10 @@ O sistema utiliza um Arduino integrado a uma interface gráfica em Python
 para controle e monitoramento em tempo real de um motor CC, permitindo 
 ajuste dinâmico dos parâmetros dos controladores P, PI, PD e PID.
 
+## Demonstração
+
+[![Demonstração do Controlador PID]](https://www.youtube.com/watch?v=SEU_ID_DO_VIDEO)
+
 ## Estrutura do Repositório
 ControladorPID/
 
