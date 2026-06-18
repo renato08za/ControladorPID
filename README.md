@@ -54,7 +54,7 @@ faça o upload para a placa.
 
 - Arduino Uno
 - Motor CC com caixa de redução
-- Encoder incremental (210 PPR)
+- Encoder incremental 
 - Ponte H
 - Fonte de alimentação
 
